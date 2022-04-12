@@ -16,7 +16,7 @@ I wrote this php library at 2017 (5 years ago from today) in hope for enhancing 
 
 ## Brief introduction of the package
 
-After installing and setup process is finished, retrieving Purdue course data becomes a pushover.
+Once installing and setup process is finished, retrieving Purdue course data becomes a pushover.
 If user wants to retrieve all of informtion of a course name called 'CS 180' during fall semester of 2016, a single line of code can achieve a such job. 
 
 ```php
